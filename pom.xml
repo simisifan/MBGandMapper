@@ -32,7 +32,7 @@
         <targetResourcesProject>${basedir}/src/main/resources</targetResourcesProject>
 
         <!-- targetXMLPackage：声明存放具体XxxMapper.xml文件的目录位置 -->
-        <targetXMLPackage></targetXMLPackage>
+        <targetXMLPackage>mappers</targetXMLPackage>
 
         <!-- 通用Mapper的版本号 -->
         <mapper.version>4.0.0-beta3</mapper.version>
